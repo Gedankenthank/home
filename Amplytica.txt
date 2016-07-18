@@ -1,0 +1,43 @@
+Amiplytica:
+
+--Questions
+At what step are we getting the data? Right out of the machine?
+Who is using this, people with machines in their lab that output big data? Or people who are given data from a machine which tells them %s already?
+
+--Bugs/Improvements
+Can't save image of Krona snapshot
+
+--Other
+barcode of life. 
+
+observation matrix file. biome file. 
+
+other organisms too. 98% accurate is Lee's guess.
+
+Can do other data analysis too. 100% fippa compliant possible. Run out of canada.
+
+originally medical, security 100% ecryptable. Businesses. 
+
+
+
+--Research
+16S rrna databases: 
+
+General but not ideal: NCBI
+
+EzTaxon-e[edit]
+http://eztaxon-e.ezbiocloud.net/ The EzTaxon-e database is an extension of the original EzTaxon database. It contains comprehensive 16S rRNA gene sequences of taxa with valid names as well as sequences of uncultured taxa. EzTaxon-e contains complete hierarchical taxonomic structure (from phylum rank to species rank) for the domain of bacteria and archaea.[22]
+
+Ribosomal Database Project[edit]
+http://rdp.cme.msu.edu/ The Ribosomal Database Project (RDP) is a curated database that offers ribosome data along with related programs and services. The offerings include phylogenetically ordered alignments of ribosomal RNA (rRNA) sequences, derived phylogenetic trees, rRNA secondary structure diagrams and various software packages for handling, analyzing and displaying alignments and trees. The data are available via ftp and electronic mail. Certain analytic services are also provided by the electronic mail server.[23]
+
+SILVA[edit]
+SILVA provides comprehensive, quality checked and regularly updated datasets of aligned small (16S/18S, SSU) and large subunit (23S/28S, LSU) ribosomal RNA (rRNA) sequences for all three domains of life as well as a suite of search, primer-design and alignment tools (Bacteria, Archaea and Eukarya).[24]
+
+Greengenes[edit]
+Greengenes is a quality controlled, comprehensive 16S reference database and taxonomy based on a de novo phylogeny that provides standard operational taxonomic unit sets. The official home page for the site is http://greengenes.secondgenome.com, and is licensed under the Creative Commons BY-SA 3.0 license.[25][26]
+
+
+DNA analysis tools:
+http://molbiol-tools.ca/DNA_composition.htm
+http://molbiol-tools.ca/Genomics.htm
